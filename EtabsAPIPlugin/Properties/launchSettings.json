@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "EtabsAPIPlugin": {
+      "commandName": "Project"
+    },
+    "AttachEtabs": {
+      "commandName": "Executable",
+      "executablePath": "D:\\EtabsV22.5\\ETABS.exe"
+    }
+  }
+}

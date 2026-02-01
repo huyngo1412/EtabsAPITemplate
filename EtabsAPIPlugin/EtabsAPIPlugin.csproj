@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net8.0-windows</TargetFramework>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <Nullable>enable</Nullable>
+	  <Platforms>AnyCPU;x64</Platforms>
+	  <UseWPF>true</UseWPF>
+	  <EnableDynamicLoading>true</EnableDynamicLoading>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="UI\Resources\Icons\locked.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ETABSv1">
+      <HintPath>D:\EtabsV22.5\ETABSv1.dll</HintPath>
+      <Private>False</Private>
+	<ExcludeAssets>runtime</ExcludeAssets>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Core\Models\" />
+    <Folder Include="Infrastructure\DataAccess\" />
+    <Folder Include="UI\Components\" />
+    <Folder Include="UI\Converters\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.135" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="UI\Resources\Icons\locked.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="UI\Resources\Themes\Colors.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Page>
+  </ItemGroup>
+
+</Project>

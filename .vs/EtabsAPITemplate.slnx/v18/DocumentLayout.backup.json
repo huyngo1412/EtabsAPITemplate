@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EtabsAPITemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|e:\\etabsapitemplate\\etabsapiplugin\\ui\\screens\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|solutionrelative:etabsapiplugin\\ui\\screens\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|e:\\etabsapitemplate\\etabsapiplugin\\ui\\utilities\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|solutionrelative:etabsapiplugin\\ui\\utilities\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|e:\\etabsapitemplate\\etabsapiplugin\\cplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|solutionrelative:etabsapiplugin\\cplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|e:\\etabsapitemplate\\etabsapiplugin\\ui\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|solutionrelative:etabsapiplugin\\ui\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|e:\\etabsapitemplate\\etabsapiplugin\\core\\abstractions\\relaycommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|solutionrelative:etabsapiplugin\\core\\abstractions\\relaycommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|e:\\etabsapitemplate\\etabsapiplugin\\ui\\resources\\themes\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|solutionrelative:etabsapiplugin\\ui\\resources\\themes\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|e:\\etabsapitemplate\\etabsapiplugin\\ui\\resources\\themes\\buttonstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|solutionrelative:etabsapiplugin\\ui\\resources\\themes\\buttonstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|e:\\etabsapitemplate\\etabsapiplugin\\ui\\resources\\themes\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|solutionrelative:etabsapiplugin\\ui\\resources\\themes\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|e:\\etabsapitemplate\\etabsapiplugin\\ui\\screens\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|solutionrelative:etabsapiplugin\\ui\\screens\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|e:\\etabsapitemplate\\etabsapiplugin\\core\\abstractions\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|solutionrelative:etabsapiplugin\\core\\abstractions\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|e:\\etabsapitemplate\\etabsapiplugin\\infrastructure\\bootstrap\\assemblyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|solutionrelative:etabsapiplugin\\infrastructure\\bootstrap\\assemblyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|e:\\etabsapitemplate\\etabsapiplugin\\etabsapiplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FF3057D-AEFD-86C1-B4CE-00F8DFD83AB9}|EtabsAPIPlugin\\EtabsAPIPlugin.csproj|solutionrelative:etabsapiplugin\\etabsapiplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommandBase.cs",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\Core\\Abstractions\\RelayCommandBase.cs",
+              "RelativeDocumentMoniker": "EtabsAPIPlugin\\Core\\Abstractions\\RelayCommandBase.cs",
+              "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\Core\\Abstractions\\RelayCommandBase.cs",
+              "RelativeToolTip": "EtabsAPIPlugin\\Core\\Abstractions\\RelayCommandBase.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T05:50:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Utilities\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "EtabsAPIPlugin\\UI\\Utilities\\MainViewModel.cs",
+              "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Utilities\\MainViewModel.cs",
+              "RelativeToolTip": "EtabsAPIPlugin\\UI\\Utilities\\MainViewModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T08:42:48.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ButtonStyle.xaml",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Resources\\Themes\\ButtonStyle.xaml",
+              "RelativeDocumentMoniker": "EtabsAPIPlugin\\UI\\Resources\\Themes\\ButtonStyle.xaml",
+              "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Resources\\Themes\\ButtonStyle.xaml",
+              "RelativeToolTip": "EtabsAPIPlugin\\UI\\Resources\\Themes\\ButtonStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-01T08:59:40.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Resources\\Themes\\Styles.xaml",
+              "RelativeDocumentMoniker": "EtabsAPIPlugin\\UI\\Resources\\Themes\\Styles.xaml",
+              "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Resources\\Themes\\Styles.xaml",
+              "RelativeToolTip": "EtabsAPIPlugin\\UI\\Resources\\Themes\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-01T09:03:01.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Screens\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EtabsAPIPlugin\\UI\\Screens\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Screens\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EtabsAPIPlugin\\UI\\Screens\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:31:55.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Resources\\Themes\\Colors.xaml",
+              "RelativeDocumentMoniker": "EtabsAPIPlugin\\UI\\Resources\\Themes\\Colors.xaml",
+              "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Resources\\Themes\\Colors.xaml",
+              "RelativeToolTip": "EtabsAPIPlugin\\UI\\Resources\\Themes\\Colors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-01T08:55:48.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Utilities\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "EtabsAPIPlugin\\UI\\Utilities\\RelayCommand.cs",
+              "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Utilities\\RelayCommand.cs",
+              "RelativeToolTip": "EtabsAPIPlugin\\UI\\Utilities\\RelayCommand.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAiwGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T05:52:39.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cPlugin.cs",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\cPlugin.cs",
+              "RelativeDocumentMoniker": "EtabsAPIPlugin\\cPlugin.cs",
+              "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\cPlugin.cs",
+              "RelativeToolTip": "EtabsAPIPlugin\\cPlugin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:51:10.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Screens\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EtabsAPIPlugin\\UI\\Screens\\MainWindow.xaml",
+              "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\Screens\\MainWindow.xaml",
+              "RelativeToolTip": "EtabsAPIPlugin\\UI\\Screens\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-31T16:22:21.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\Core\\Abstractions\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "EtabsAPIPlugin\\Core\\Abstractions\\BaseViewModel.cs",
+              "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\Core\\Abstractions\\BaseViewModel.cs",
+              "RelativeToolTip": "EtabsAPIPlugin\\Core\\Abstractions\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T05:49:24.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyResolver.cs",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\Infrastructure\\Bootstrap\\AssemblyResolver.cs",
+              "RelativeDocumentMoniker": "EtabsAPIPlugin\\Infrastructure\\Bootstrap\\AssemblyResolver.cs",
+              "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\Infrastructure\\Bootstrap\\AssemblyResolver.cs",
+              "RelativeToolTip": "EtabsAPIPlugin\\Infrastructure\\Bootstrap\\AssemblyResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T08:34:49.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EtabsAPIPlugin.csproj",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\EtabsAPIPlugin.csproj",
+              "RelativeDocumentMoniker": "EtabsAPIPlugin\\EtabsAPIPlugin.csproj",
+              "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\EtabsAPIPlugin.csproj",
+              "RelativeToolTip": "EtabsAPIPlugin\\EtabsAPIPlugin.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-31T16:26:42.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAABETAAAAAAAAAAAjwB4TAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-01T04:12:27.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
