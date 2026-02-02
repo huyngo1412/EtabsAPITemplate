@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 
-4335297404
+5438913316
 
-10-592555413
+12821519975
 2012074857996
-UI\Resources\Themes\ButtonStyle.xaml;UI\Resources\Themes\Colors.xaml;UI\Resources\Themes\Styles.xaml;UI\Screens\MainWindow.xaml;
+UI\Resources\Themes\ButtonStyle.xaml;UI\Resources\Themes\Colors.xaml;UI\Resources\Themes\Styles.xaml;UI\View\Components\ControlBarView.xaml;UI\View\Screens\MainWindow.xaml;
 
 False
 

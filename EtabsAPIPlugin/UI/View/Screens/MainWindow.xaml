@@ -1,0 +1,48 @@
+﻿<Window x:Class="EtabsAPIPlugin.UI.Screens.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EtabsAPIPlugin.UI.Screens"
+        mc:Ignorable="d"
+        xmlns:i ="http://schemas.microsoft.com/xaml/behaviors"
+        xmlns:uc="clr-namespace:EtabsAPIPlugin.UI.Components"
+        Title="MainWindow" Height="150" Width="450"
+        WindowStyle="None">
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded" >
+            <i:InvokeCommandAction Command="{Binding LoadWindowCommand}" />
+        </i:EventTrigger>
+        <i:EventTrigger EventName="Closed" >
+            <i:InvokeCommandAction Command="{Binding ClosedWindowCommand}" />
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/EtabsAPIPlugin;component/UI/Resources/Themes/Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <uc:ControlBarView ></uc:ControlBarView>
+        <Button         
+            Command="{Binding LockModelCommand}"        
+            Grid.Row="1"
+            CommandParameter="{Binding IsLockedModel}"           
+            Height="40" Width="150" Style="{StaticResource Primary_Button}">
+            <DockPanel LastChildFill="True">
+                <Image DockPanel.Dock="Left"
+               Source="/EtabsAPIPlugin;component/UI/Resources/Icons/locked.png"
+               Width="30" Height="30"
+               Margin="0,0,8,0"/>
+                <TextBlock Text="Block Model"
+                   VerticalAlignment="Center"/>
+            </DockPanel>
+        </Button>
+    </Grid>
+</Window>

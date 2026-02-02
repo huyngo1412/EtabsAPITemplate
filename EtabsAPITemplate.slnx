@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="AttachByPID/AttachByPID.csproj" Id="f2524f1e-cf66-41c3-8830-00dbd13ab16e" />
+  <Project Path="AttachInstance/AttachInstance.csproj" Id="2d8d6b78-f4de-4c06-bd4a-ee42c9d3b113" />
+  <Project Path="CreateAndAttach/CreateAndAttach.csproj" Id="d497dc94-b4c9-44bd-a54c-1893da53d478" />
   <Project Path="EtabsAPIPlugin/EtabsAPIPlugin.csproj" />
 </Solution>

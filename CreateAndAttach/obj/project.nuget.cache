@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajCp2W8XHok=",
+  "success": true,
+  "projectFilePath": "E:\\EtabsAPITemplate\\CreateAndAttach\\CreateAndAttach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roxki\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\roxki\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.135\\microsoft.xaml.behaviors.wpf.1.1.135.nupkg.sha512",
+    "C:\\Users\\roxki\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\roxki\\.nuget\\packages\\slacknet\\0.17.9\\slacknet.0.17.9.nupkg.sha512",
+    "C:\\Users\\roxki\\.nuget\\packages\\slacknet.extensions.dependencyinjection\\0.17.9\\slacknet.extensions.dependencyinjection.0.17.9.nupkg.sha512",
+    "C:\\Users\\roxki\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

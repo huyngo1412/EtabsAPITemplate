@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Infastructure\DataAccess\EtabsRepository.cs~RF5871068.TMP" />
+    <None Remove="UI\Resources\Icons\connect.png" />
+    <None Remove="UI\Resources\Icons\locked.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Core\Models\" />
+    <Folder Include="Core\Service\" />
+    <Folder Include="Infastructure\Bootstrap\" />
+    <Folder Include="UI\Views\Components\" />
+    <Folder Include="UI\Converters\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.2" />
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.135" />
+    <PackageReference Include="SlackNet.Extensions.DependencyInjection" Version="0.17.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ETABSv1">
+      <HintPath>D:\EtabsV22.5\ETABSv1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="UI\Resources\Icons\connect.png" />
+    <Resource Include="UI\Resources\Icons\locked.png" />
+  </ItemGroup>
+
+</Project>

@@ -10,7 +10,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="UI\Resources\Icons\Close.png" />
     <None Remove="UI\Resources\Icons\locked.png" />
+    <None Remove="UI\Resources\Icons\Maximized.png" />
+    <None Remove="UI\Resources\Icons\Minimize.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,8 +26,8 @@
 
   <ItemGroup>
     <Folder Include="Core\Models\" />
+    <Folder Include="Core\Service\" />
     <Folder Include="Infrastructure\DataAccess\" />
-    <Folder Include="UI\Components\" />
     <Folder Include="UI\Converters\" />
   </ItemGroup>
 
@@ -34,9 +37,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="UI\Resources\Icons\Close.png" />
     <Resource Include="UI\Resources\Icons\locked.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
+    <Resource Include="UI\Resources\Icons\Maximized.png" />
+    <Resource Include="UI\Resources\Icons\Minimize.png" />
   </ItemGroup>
 
   <ItemGroup>

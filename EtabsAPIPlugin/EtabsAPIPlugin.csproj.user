@@ -7,7 +7,10 @@
     <ActiveDebugProfile>AttachEtabs</ActiveDebugProfile>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Update="UI\Screens\MainWindow.xaml.cs">
+    <Compile Update="UI\View\Components\ControlBarView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UI\View\Screens\MainWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

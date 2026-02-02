@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="EtabsAPIPlugin.UI.Components.ControlBarView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EtabsAPIPlugin.UI.Components"
+             mc:Ignorable="d" 
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             x:Name="ControlbarUC"
+             >
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="MouseLeftButtonDown">
+            <i:InvokeCommandAction Command="{Binding MouseMoveWindowCommand}" CommandParameter="{Binding ElementName=ControlbarUC}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/EtabsAPIPlugin;component/UI/Resources/Themes/Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBlock Margin="15,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left"  Text="ControlBar User Control" FontWeight="SemiBold"></TextBlock>
+        <StackPanel Orientation="Horizontal" Margin="0,0,2.5,0" Grid.Column="1" HorizontalAlignment="Right">
+            <Button  Width="25"
+            Command="{Binding MiniMizeWindowCommand}"
+            CommandParameter="{Binding ElementName=ControlbarUC}" >
+                <Image Source="pack://application:,,,/EtabsAPIPlugin;component/UI/Resources/Icons/Minimize.png"/>
+            </Button>
+            <Button  Width="25"
+Command="{Binding MaxiMizeWindowCommand}"
+CommandParameter="{Binding ElementName=ControlbarUC}">
+                <Image Source="pack://application:,,,/EtabsAPIPlugin;component/UI/Resources/Icons/Maximized.png"/>
+            </Button>
+            <Button  Width="25"
+            Command="{Binding CloseWindowCommand}"
+            CommandParameter="{Binding ElementName=ControlbarUC}"
+            >
+                <Image Source="pack://application:,,,/EtabsAPIPlugin;component/UI/Resources/Icons/Close.png"/>
+            </Button>
+        </StackPanel>
+    </Grid>
+</UserControl>
