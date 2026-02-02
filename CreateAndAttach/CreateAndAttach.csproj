@@ -13,4 +13,16 @@
     <PackageReference Include="SlackNet.Extensions.DependencyInjection" Version="0.17.9" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Core\Abstractions\" />
+    <Folder Include="Core\Models\" />
+    <Folder Include="Core\Services\" />
+    <Folder Include="UI\Converters\" />
+    <Folder Include="UI\Resources\Icons\" />
+    <Folder Include="UI\Resources\Themes\" />
+    <Folder Include="UI\ViewModels\" />
+    <Folder Include="UI\Views\Components\" />
+    <Folder Include="UI\Views\Screens\" />
+  </ItemGroup>
+
 </Project>

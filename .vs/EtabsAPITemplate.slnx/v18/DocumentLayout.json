@@ -45,8 +45,8 @@
       "RelativeMoniker": "D:0:0:{2D8D6B78-F4DE-4C06-BD4A-EE42C9D3B113}|AttachInstance\\AttachInstance.csproj|solutionrelative:attachinstance\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D8D6B78-F4DE-4C06-BD4A-EE42C9D3B113}|AttachInstance\\AttachInstance.csproj|e:\\etabsapitemplate\\attachinstance\\infastructure\\service\\etabsconnectionservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8D6B78-F4DE-4C06-BD4A-EE42C9D3B113}|AttachInstance\\AttachInstance.csproj|solutionrelative:attachinstance\\infastructure\\service\\etabsconnectionservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D8D6B78-F4DE-4C06-BD4A-EE42C9D3B113}|AttachInstance\\AttachInstance.csproj|e:\\etabsapitemplate\\attachinstance\\infastructure\\services\\etabsconnectionservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8D6B78-F4DE-4C06-BD4A-EE42C9D3B113}|AttachInstance\\AttachInstance.csproj|solutionrelative:attachinstance\\infastructure\\services\\etabsconnectionservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D8D6B78-F4DE-4C06-BD4A-EE42C9D3B113}|AttachInstance\\AttachInstance.csproj|e:\\etabsapitemplate\\attachinstance\\attachinstance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -87,8 +87,7 @@
               "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\View\\Components\\ControlBarView.xaml",
               "RelativeToolTip": "EtabsAPIPlugin\\UI\\View\\Components\\ControlBarView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-02T00:02:48.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T00:02:48.1Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "ToolTip": "E:\\EtabsAPITemplate\\EtabsAPIPlugin\\UI\\View\\Screens\\MainWindow.xaml",
               "RelativeToolTip": "EtabsAPIPlugin\\UI\\View\\Screens\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-02T00:02:42.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T00:02:42.786Z"
             },
             {
               "$type": "Document",
@@ -122,8 +120,7 @@
               "ToolTip": "E:\\EtabsAPITemplate\\AttachInstance\\App.xaml",
               "RelativeToolTip": "AttachInstance\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-01T23:27:25.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T23:27:25.527Z"
             },
             {
               "$type": "Document",
@@ -158,17 +155,16 @@
               "RelativeToolTip": "AttachInstance\\Infastructure\\DataAccess\\EtabsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T23:19:26.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T23:19:26.128Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "EtabsConnectionService .cs",
-              "DocumentMoniker": "E:\\EtabsAPITemplate\\AttachInstance\\Infastructure\\Service\\EtabsConnectionService .cs",
-              "RelativeDocumentMoniker": "AttachInstance\\Infastructure\\Service\\EtabsConnectionService .cs",
-              "ToolTip": "E:\\EtabsAPITemplate\\AttachInstance\\Infastructure\\Service\\EtabsConnectionService .cs",
-              "RelativeToolTip": "AttachInstance\\Infastructure\\Service\\EtabsConnectionService .cs",
+              "DocumentMoniker": "E:\\EtabsAPITemplate\\AttachInstance\\Infastructure\\Services\\EtabsConnectionService .cs",
+              "RelativeDocumentMoniker": "AttachInstance\\Infastructure\\Services\\EtabsConnectionService .cs",
+              "ToolTip": "E:\\EtabsAPITemplate\\AttachInstance\\Infastructure\\Services\\EtabsConnectionService .cs",
+              "RelativeToolTip": "AttachInstance\\Infastructure\\Services\\EtabsConnectionService .cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T23:18:42.681Z"
@@ -207,8 +203,7 @@
               "RelativeToolTip": "AttachInstance\\Infastructure\\DataAccess\\EtabsReader.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T22:58:14.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T22:58:14.562Z"
             },
             {
               "$type": "Document",
@@ -231,8 +226,7 @@
               "ToolTip": "E:\\EtabsAPITemplate\\AttachInstance\\UI\\Views\\Screens\\MainWindow.xaml",
               "RelativeToolTip": "AttachInstance\\UI\\Views\\Screens\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-01T23:26:17.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T23:26:17.276Z"
             },
             {
               "$type": "Document",
@@ -254,7 +248,7 @@
               "RelativeDocumentMoniker": "AttachInstance\\UI\\ViewModels\\MainViewModel.cs",
               "ToolTip": "E:\\EtabsAPITemplate\\AttachInstance\\UI\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "AttachInstance\\UI\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwB0AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T15:00:07.764Z",
               "EditorCaption": ""

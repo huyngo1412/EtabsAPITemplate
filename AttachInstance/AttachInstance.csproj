@@ -16,7 +16,7 @@
 
   <ItemGroup>
     <Folder Include="Core\Models\" />
-    <Folder Include="Core\Service\" />
+    <Folder Include="Core\Services\" />
     <Folder Include="Infastructure\Bootstrap\" />
     <Folder Include="UI\Views\Components\" />
     <Folder Include="UI\Converters\" />
